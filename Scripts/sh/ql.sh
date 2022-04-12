@@ -14,7 +14,7 @@ echo -e "\e[36m
        ▀                        ▀████▀▀                                 ▀████▀▀
 \e[0m\n"
 
-DOCKER_IMG_NAME="whyour/qinglong:2.10.6"
+DOCKER_IMG_NAME="whyour/qinglong:2.10.9"
 QL_PATH=""
 SHELL_FOLDER=$(pwd)
 CONTAINER_NAME=""
