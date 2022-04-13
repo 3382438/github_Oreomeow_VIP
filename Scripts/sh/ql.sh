@@ -18,7 +18,7 @@ DOCKER_IMG_NAME="whyour/qinglong:2.10.9"
 QL_PATH=""
 SHELL_FOLDER=$(pwd)
 CONTAINER_NAME=""
-TAG="latest"
+TAG="2.10.9"
 NETWORK="bridge"
 QL_PORT=5700
 
